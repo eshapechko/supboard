@@ -5,6 +5,7 @@
   background-position: center;
   min-height: 100vh;
   position: relative;
+  margin-bottom: 80px;
 }
 
 .header::before {
@@ -18,7 +19,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  transform: translateY(35%);
+  transform: translateY(40%);
   z-index: 2;
 }
 
