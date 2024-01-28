@@ -61,6 +61,21 @@ ul {
   margin: 0;
 }
 
+.play-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+}
+
+.play-btn span {
+  color: #fff;
+  font-size: 18px;
+  line-height: normal;
+  padding-top: 12px;
+  display: block;
+}
+
 .container {
   max-width: 1230px;
   padding: 0 15px;

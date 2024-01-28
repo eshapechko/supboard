@@ -42,20 +42,7 @@
   border-bottom: 1px solid #fff;
 }
 
-.play-btn {
-  text-align: center;
-}
-
-.play-btn span {
-  color: #fff;
-  font-size: 18px;
-  line-height: normal;
-  padding-top: 12px;
-  display: block;
-}
-
 .info__btn {
-  position: absolute;
   bottom: 0;
   right: 0;
 }
